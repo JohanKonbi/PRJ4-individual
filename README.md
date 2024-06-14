@@ -16,3 +16,6 @@ Individual repository for PDR in Project 4
 - [Business Context](https://github.com/JohanKonbi/PRJ4-individual/blob/main/Artifacts/PRJ4%20Business%20context.pdf)
 - [Project Charter](https://github.com/JohanKonbi/PRJ4-individual/blob/main/Artifacts/PRJ4BI%20Project%20Charter.pdf)
 - [Feedback](https://github.com/JohanKonbi/PRJ4-individual/blob/main/Artifacts/PRJ4%20Feedback.pdf)
+
+# Artifacts
+- [Reflection](https://github.com/JohanKonbi/PRJ4-individual/blob/main/PRJ4%20Reflection.pdf)
